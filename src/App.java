@@ -58,7 +58,6 @@ public class App {
         /// CODE
         var pilaExplotada = controller.explotarGrupo(mapaUrgencias);
         pilaExplotada.forEach(System.out::println);
-
     }
 
     static List<Pedido> crearPedidos() {
