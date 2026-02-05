@@ -27,7 +27,7 @@ public class Pedido {
     this.codigoPostal = codigoPostal;
   }
 
-  public List<Integer> getPrioridadaes() {
+  public List<Integer> getPrioridades() {
     return prioridadaes;
   }
 
